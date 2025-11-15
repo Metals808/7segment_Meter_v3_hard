@@ -25982,6 +25982,36 @@
 		(uuid "ff37a154-9676-4bd4-aded-5c6f2ad74dbf")
 	)
 	(gr_line
+		(start 153.67 26.96)
+		(end 148.2 32.43)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "0ef54cf5-e484-470a-8ed5-fa21948f3f96")
+	)
+	(gr_line
+		(start 148.2 32.43)
+		(end 148.2 27.92)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "1fe19b5f-c87c-4962-8452-146d89e840de")
+	)
+	(gr_line
+		(start 152.9 32.43)
+		(end 148.2 32.43)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "47fb5322-5978-49e1-b5b3-b9ff1fd19c4c")
+	)
+	(gr_line
 		(start 143.398752 38)
 		(end 143.398752 27.7)
 		(stroke
@@ -26665,6 +26695,18 @@
 				(thickness 0.1)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "M5"
+		(at 153.67 25.59 0)
+		(layer "Cmts.User")
+		(uuid "a405234c-6a4f-488e-8f4f-6c200165807e")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(dimension
